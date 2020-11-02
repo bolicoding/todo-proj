@@ -18,6 +18,4 @@
   - get all todos
   - edit single todo
   - delete a single todo
-- Create database
-- Create todo class
 - Host the Api on Heroku
