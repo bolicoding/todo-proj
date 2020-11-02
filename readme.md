@@ -14,7 +14,6 @@
 ## Todo:
 
 - Create routes
-  - get all todos
   - edit single todo
   - delete a single todo
 - Host the Api on Heroku
