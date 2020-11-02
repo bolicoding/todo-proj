@@ -14,7 +14,6 @@
 ## Todo:
 
 - Create routes
-  - create todo
   - get all todos
   - edit single todo
   - delete a single todo
